@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f5db948e6ff6f53e8d2ff983b468a17d.js"
+  "/precache-manifest.67bb7230aa1c5abe3653b9c83dca6008.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "subscriptions-app"});
